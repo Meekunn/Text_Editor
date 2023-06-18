@@ -1,0 +1,29 @@
+<RCC>
+    <qresource prefix="/files">
+        <file>text_editor_icons/about.png</file>
+        <file>text_editor_icons/app.png</file>
+        <file>text_editor_icons/bold.png</file>
+        <file>text_editor_icons/exchange.png</file>
+        <file>text_editor_icons/files.png</file>
+        <file>text_editor_icons/find.png</file>
+        <file>text_editor_icons/floppy-disk.png</file>
+        <file>text_editor_icons/font-size.png</file>
+        <file>text_editor_icons/italic.png</file>
+        <file>text_editor_icons/list.png</file>
+        <file>text_editor_icons/list (1).png</file>
+        <file>text_editor_icons/no.png</file>
+        <file>text_editor_icons/open-folder.png</file>
+        <file>text_editor_icons/palette.png</file>
+        <file>text_editor_icons/question.png</file>
+        <file>text_editor_icons/scissors.png</file>
+        <file>text_editor_icons/strikethrough.png</file>
+        <file>text_editor_icons/text-editor.png</file>
+        <file>text_editor_icons/text-editor (1).png</file>
+        <file>text_editor_icons/text-editor (2).png</file>
+        <file>text_editor_icons/zoom.png</file>
+        <file>text_editor_icons/zoom-out.png</file>
+        <file>text_editor_icons/print.png</file>
+        <file>text_editor_icons/redo.png</file>
+        <file>text_editor_icons/undo.png</file>
+    </qresource>
+</RCC>
