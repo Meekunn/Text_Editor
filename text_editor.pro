@@ -25,3 +25,6 @@ else: unix:!android: target.path = /opt/$${TARGET}/bin
 
 RESOURCES += \
     resources.qrc
+
+DISTFILES += \
+    readme_images/Screenshot from 2023-06-12 22-45-19.png

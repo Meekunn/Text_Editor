@@ -25,5 +25,7 @@
         <file>text_editor_icons/print.png</file>
         <file>text_editor_icons/redo.png</file>
         <file>text_editor_icons/undo.png</file>
+        <file>readme_images/readme_images.qrc</file>
+        <file>readme_images/Screenshot from 2023-06-12 22-45-19.png</file>
     </qresource>
 </RCC>
